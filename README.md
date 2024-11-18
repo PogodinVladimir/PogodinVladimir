@@ -43,7 +43,7 @@
 ### :keyboard: Наиболее используемые языки :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompersStomper" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PogodinVladimir" alt=""/>
 </div>
 
 ### :bar_chart: Статистика активности :
