@@ -16,7 +16,7 @@
 <h1> Профиль на GITHUB </h1>
 </div>
 
-### :woman_technologist: Обо мне :
+### :man_technologist: Обо мне :
 
 - :brain: факт обо мне
 
