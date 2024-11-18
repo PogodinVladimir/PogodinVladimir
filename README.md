@@ -20,9 +20,9 @@
 
 - :brain: факт обо мне
 
-- :woman_pilot: факт обо мне
+- :grinning: факт обо мне
 
-- :biking_woman: факт обо мне
+- :Lazy: факт обо мне
 
 ### :hammer_and_wrench: Языки и инструменты :
 
