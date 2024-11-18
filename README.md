@@ -18,11 +18,11 @@
 
 ### :man_technologist: Обо мне :
 
-- :brain: факт обо мне
+- :brain: Обучаюсь В МПТ
 
-- :grinning: факт обо мне
+- :grinning: Помогал ShizoFRenik^у кодить сайт 
 
-- :Lazy: факт обо мне
+- :alarm_clock: Ленивый
 
 ### :hammer_and_wrench: Языки и инструменты :
 
